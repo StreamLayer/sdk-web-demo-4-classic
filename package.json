@@ -7,7 +7,7 @@
   "dependencies": {
     "@emotion/css": "^11.13.5",
     "@emotion/styled": "^11.14.0",
-    "@streamlayer/react": "^1.17.0",
+    "@streamlayer/react": "^1.17.1",
     "@streamlayer/sdk-web-anonymous-auth": "^1.1.43",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
@@ -20,8 +20,8 @@
     "eslint": "^8.0.0",
     "hls.js": "^1.5.19",
     "lodash.throttle": "^4.1.1",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
+    "react": "=17.0.0",
+    "react-dom": "=17.0.0",
     "react-scripts": "5.0.1",
     "typescript": "^5.4.2",
     "web-vitals": "^3.5.2"
